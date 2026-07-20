@@ -23,9 +23,6 @@
 | K1 Datasheet（Markdown） | https://github.com/spacemit-com/docs-chip/blob/main/en/key_stone/k1/k1_docs/k1_ds.md |
 | SpacemiT 开发者文档站 | https://developer.spacemit.com/ |
 | SpacemiT 固件归档（Bianbu / UEFI / titanflasher） | https://archive.spacemit.com/ |
-| K1 U-Boot 烧录指南（主线 U-Boot 邮件列表 patch） | https://www.mail-archive.com/u-boot@lists.denx.de/msg577513.html |
-| Muse Pi Pro openEuler 适配测试报告（含烧录流程） | https://matrix.ruyisdk.org/reports/Muse_Pi_Pro-openEuler-README/ |
-| RISC-V IME AI 自定义指令规范 | https://github.com/spacemit-com/riscv-ime-extension-spec |
 
 ## 如何贡献适配
 
